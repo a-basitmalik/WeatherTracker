@@ -4,6 +4,6 @@ Real-time weather updates.
 City search functionality.
 User-friendly interface.
 Tools:
-HTML
+HTML it is very good for creating the structure of the website.
 CSS
 JavaScript
